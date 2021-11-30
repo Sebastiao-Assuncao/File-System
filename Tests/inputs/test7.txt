@@ -1,0 +1,4 @@
+c a d
+c b d
+c b/d f
+p out.txt
